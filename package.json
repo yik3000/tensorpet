@@ -1,0 +1,18 @@
+{
+  "name": "tfjs-image-classifier-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "develop": "parcel index.html --no-hmr"
+  },
+  "author": "Kevin Scott",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint-config-airbnb": "^17.0.0",
+    "parcel": "^1.9.7"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs": "^0.12.4"
+  }
+}
